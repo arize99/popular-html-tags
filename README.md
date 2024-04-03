@@ -1,7 +1,7 @@
 
 Basic HTML
 
-&lt;!DOCTYPE&gt;:	  Defines the document type
+&lt;!DOCTYPE&gt;:	  Defines the document type<br/>
 &lt;HTML&gt;:	    	Defines an HTML document
 &lt;head&gt;:	    	Contains metadata/information for the document
 &lt;title&gt;:	  	Defines a title for the document
