@@ -1,3 +1,4 @@
+<!--
 Basic HTML
 
 <!DOCTYPE>:	  Defines the document type
@@ -11,7 +12,7 @@ Basic HTML
 <hr>:	      	Defines a thematic change in the content
 <!--...-->:  	Defines a comment
 
-
+<!--
 Formatting
 
 <abbr>:      	Defines an acronym
